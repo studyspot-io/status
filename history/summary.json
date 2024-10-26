@@ -1,5 +1,23 @@
 [
   {
+    "name": "studyspot",
+    "url": "https://studyspot-io.github.io",
+    "icon": "https://icons.duckduckgo.com/ip3/studyspot-io.github.io.ico",
+    "slug": "studyspot",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 58,
+    "timeDay": 58,
+    "timeWeek": 58,
+    "timeMonth": 58,
+    "timeYear": 58,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "GitHub",
     "url": "https://www.github.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.github.com.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 116,
-    "timeWeek": 205,
-    "timeMonth": 233,
-    "timeYear": 228,
+    "time": 225,
+    "timeDay": 117,
+    "timeWeek": 194,
+    "timeMonth": 230,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 86,
-    "timeWeek": 92,
-    "timeMonth": 100,
+    "timeDay": 83,
+    "timeWeek": 91,
+    "timeMonth": 99,
     "timeYear": 97,
     "dailyMinutesDown": {}
   },
@@ -46,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 217,
-    "timeWeek": 165,
+    "time": 210,
+    "timeDay": 203,
+    "timeWeek": 168,
     "timeMonth": 203,
-    "timeYear": 211,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   }
 ]
