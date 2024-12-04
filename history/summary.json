@@ -22,18 +22,20 @@
     "url": "https://www.github.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.github.com.ico",
     "slug": "git-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 614,
-    "timeWeek": 291,
-    "timeMonth": 215,
-    "timeYear": 218,
-    "dailyMinutesDown": {}
+    "time": 222,
+    "timeDay": 554,
+    "timeWeek": 316,
+    "timeMonth": 224,
+    "timeYear": 222,
+    "dailyMinutesDown": {
+      "2024-12-04": 0
+    }
   },
   {
     "name": "Google",
