@@ -60,11 +60,11 @@
     "url": "https://www.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
     "timeDay": 148,
@@ -72,7 +72,7 @@
     "timeMonth": 129,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-02-28": 11
+      "2025-02-28": 0
     }
   }
 ]
